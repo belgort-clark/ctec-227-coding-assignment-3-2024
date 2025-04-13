@@ -1,8 +1,8 @@
-# CTEC 227 Coding Assignment 3 - 2024
+# CTEC 227 Coding Assignment 3 - 2025
 
 ## Overview
 
-This assignment requires you to demonstrate the Registration and Login code you learned in Module 2 and submit your work using GitHub Classroom.
+This assignment requires you to show the Registration and Login code you learned in Module 2 and submit your work using GitHub Classroom.
 
 While this assignment does not require you to style your work, remember that you will need to do so for an upcoming assignment to build an Image Library application.
 
@@ -25,7 +25,7 @@ Your assignment must contain the following four PHP pages:
 
 ### Form Requirements
 
-All fields are required and must not use the **required** HTML attribute but are validated in PHP using an error bucket.
+All fields must not use the **required** HTML attribute but are validated in PHP using an error bucket.
 
 - email field of type email
 - first_name field
@@ -37,7 +37,7 @@ If all fields are filled out correctly, the user must be taken to the login.php 
 
 ## Requirements for login.php
 
-All fields are required and must not use the **required** HTML attribute but are validated in PHP using an error bucket.
+All fields must not use the **required** HTML attribute but are validated in PHP using an error bucket.
 
 - email field
 - password field of type password
